@@ -1,0 +1,14 @@
+# Slim runtime set for the Docker image (torch CPU is installed separately in the Dockerfile).
+ultralytics>=8.3
+supervision>=0.20
+opencv-python-headless>=4.8
+numpy
+pyyaml
+onnx
+onnxruntime
+requests
+fastapi
+uvicorn
+python-multipart
+streamlit
+sentence-transformers

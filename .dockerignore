@@ -1,0 +1,12 @@
+.git
+__pycache__
+*.pyc
+runs
+dataset
+raw*
+reports
+logs
+tests
+notebooks
+docs
+.env

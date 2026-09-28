@@ -1,0 +1,18 @@
+# Full environment (Kaggle training + local development). On Kaggle torch is preinstalled.
+ultralytics>=8.3
+supervision>=0.20
+opencv-python-headless>=4.8
+numpy
+pandas
+pyyaml
+onnx
+onnxruntime
+onnxslim
+requests
+fastapi
+uvicorn
+python-multipart
+streamlit
+sentence-transformers
+pytest
+httpx
